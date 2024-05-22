@@ -3,7 +3,11 @@
 <html>
 <head>
 	<title>Home</title>
+  <meta charset="UTF-8">
 </head>
+<script>
+	self.location="/board/list";
+</script>
 <body>
 <h1>
 	Hello world!  
